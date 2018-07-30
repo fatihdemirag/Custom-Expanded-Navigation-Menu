@@ -169,51 +169,67 @@ public class NavigationDrawerFragment extends Fragment {
                 switch (ogeSecilen) {
                     case "Alt Menü 1":
                         mDrawerLayout.closeDrawer(mFragmentContainerView);
+                        expandableListView.expandGroup(0);
                         break;
                     case "Alt Menü 2":
                         mDrawerLayout.closeDrawer(mFragmentContainerView);
+                        expandableListView.expandGroup(0);
                         break;
                     case "Alt Menü 3":
                         mDrawerLayout.closeDrawer(mFragmentContainerView);
+                        expandableListView.expandGroup(0);
                         break;
                     case "Alt Menü 4":
                         mDrawerLayout.closeDrawer(mFragmentContainerView);
+                        expandableListView.expandGroup(0);
                         break;
                     case "Alt Menü 5":
                         mDrawerLayout.closeDrawer(mFragmentContainerView);
+                        expandableListView.expandGroup(0);
                         break;
                     case "Alt Menü 6":
                         mDrawerLayout.closeDrawer(mFragmentContainerView);
+                        expandableListView.expandGroup(0);
                         break;
                     case "Alt Menü 7":
                         mDrawerLayout.closeDrawer(mFragmentContainerView);
+                        expandableListView.expandGroup(0);
                         break;
                     case "Alt Menü 8":
                         mDrawerLayout.closeDrawer(mFragmentContainerView);
+                        expandableListView.expandGroup(0);
                         break;
                     case "Alt Menü 9":
                         mDrawerLayout.closeDrawer(mFragmentContainerView);
+                        expandableListView.expandGroup(0);
                         break;
                     case "Alt Menü 10":
                         mDrawerLayout.closeDrawer(mFragmentContainerView);
+                        expandableListView.expandGroup(0);
                         break;
                     case "Alt Menü 11":
                         mDrawerLayout.closeDrawer(mFragmentContainerView);
+                        expandableListView.expandGroup(0);
                         break;
                     case "Alt Menü 12":
                         mDrawerLayout.closeDrawer(mFragmentContainerView);
+                        expandableListView.expandGroup(0);
                         break;
                     case "Alt Menü 13":
                         mDrawerLayout.closeDrawer(mFragmentContainerView);
+                        expandableListView.expandGroup(0);
                         break;
                     case "Alt Menü 15":
                         mDrawerLayout.closeDrawer(mFragmentContainerView);
+                        expandableListView.expandGroup(0);
                         break;
                     case "Alt Menü 16":
                         mDrawerLayout.closeDrawer(mFragmentContainerView);
+                        expandableListView.expandGroup(0);
                         break;
                     case "Alt Menü 17":
                         mDrawerLayout.closeDrawer(mFragmentContainerView);
+                        expandableListView.expandGroup(0);
                         break;
                 }
                 expandableListView.collapseGroup(0);
