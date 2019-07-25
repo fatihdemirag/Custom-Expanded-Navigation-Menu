@@ -1,4 +1,4 @@
-# NavigasyonMenuCustom
+# Custom Expanded Navigation Menu
 Android Expanded listview with custom menu
 
 # License
